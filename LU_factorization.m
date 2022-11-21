@@ -1,4 +1,4 @@
-clc
+clc;
 clear all;
 
 A = [10,8,-3,1,16; 
