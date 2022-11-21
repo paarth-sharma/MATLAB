@@ -4,27 +4,27 @@
 
 ## Topic-wise breakdown
 ### Finding roots of non-linear equations using:
-- [ ] Bisection method
-- [ ] Fixed-point Iteration method
-- [ ] Newton's method
-- [ ] Secant method
+- [x] [Bisection method]()
+- [x] Fixed-point Iteration method
+- [x] Newton's method
+- [x] Secant method
 
 ### Finding roots of a system of non-linear equations using:
-- [ ] Gauss elimination method
-- [ ] Gauss-Seidel method
+- [x] Gauss elimination method
+- [x] [Gauss-Seidel method](./gauss_seidel.m)
 
 ### Finding dominant Eigen-Value and it's associated Eigen-Vector using:
-- [ ] Power method
+- [x] Power method
 
 ### Finding value of function at Interpolating points of polynomials of degree <= n on (n+1) discrete points using:
-- [ ] Lagrange's Interpolation method
-- [ ] Newton's Divided-Difference method
+- [x] Lagrange's Interpolation method
+- [x] Newton's Divided-Difference method
 
 ### Numerically integrating a function using:
-- [ ] Composite Trapezoidal method
-- [ ] Simpson's Rule
+- [x] Composite Trapezoidal method
+- [x] Simpson's Rule
 
 ### Finding solutions of initial value problems using:
-- [ ] Euler's Modified method
-- [ ] Range-Kutta's fourth order method
+- [x] Euler's Modified method
+- [x] Range-Kutta's fourth order method
 
